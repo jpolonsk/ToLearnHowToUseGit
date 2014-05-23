@@ -1,1 +1,1 @@
-This is a hellow world program in Java!
+This readme is for a hello world program in Java!
